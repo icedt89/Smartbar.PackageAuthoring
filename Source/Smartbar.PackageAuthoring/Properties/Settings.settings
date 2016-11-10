@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="JanHafner.Smartbar.PackageAuthoring.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ApiKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">t7U4+]QM~8Au}E*{PPxccb2W{v_t,UXsnejwV98=#7n=J3x76z8t=JN/2MCm4PsJYb6f?V3YqcGX64rx3~P?t3TB/;8xjA/k##/P[G4\(nLDC9unk;F_KmAtdsQnS</Value>
+    </Setting>
+    <Setting Name="NugetServerUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://smartbarpluginsfeed.azurewebsites.net</Value>
+    </Setting>
+    <Setting Name="NugetServerPackageFeedSuffix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">nuget</Value>
+    </Setting>
+    <Setting Name="NugetPackageFileNamePattern" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">{0}.{1}</Value>
+    </Setting>
+    <Setting Name="NuspecFileExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">nuspec</Value>
+    </Setting>
+    <Setting Name="PackageFileExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">nupkg</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

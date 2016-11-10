@@ -1,0 +1,1 @@
+ Import-Module ".\..\JanHafner.Smartbar.PackageAuthoring.dll" -verbose
