@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JanHafner.Smartbar.PackageAuthoring", "Smartbar.PackageAuthoring\JanHafner.Smartbar.PackageAuthoring.csproj", "{49D5D5DD-BD08-4AFA-8549-54818D3AD45C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JanHafner.Smartbar.Server.NuGet", "Smartbar.Server.NuGet\JanHafner.Smartbar.Server.NuGet.csproj", "{90712163-F747-452E-9EF4-21500D176706}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JanHafner.Smartbar.Server", "Smartbar.Server\JanHafner.Smartbar.Server.csproj", "{90712163-F747-452E-9EF4-21500D176706}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
