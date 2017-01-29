@@ -6,9 +6,9 @@ using NuGet.Server.DataServices;
 using NuGet.Server.Publishing;
 using RouteMagic;
 
-[assembly: WebActivatorEx.PreApplicationStartMethod(typeof(JanHafner.Smartbar.Server.NuGet.NuGetRoutes), "Start")]
+[assembly: WebActivatorEx.PreApplicationStartMethod(typeof(JanHafner.Smartbar.Server.NuGetRoutes), "Start")]
 
-namespace JanHafner.Smartbar.Server.NuGet {
+namespace JanHafner.Smartbar.Server {
     public static class NuGetRoutes {
         public static void Start() {
 			ServiceResolver.SetServiceResolver(new DefaultServiceResolver());

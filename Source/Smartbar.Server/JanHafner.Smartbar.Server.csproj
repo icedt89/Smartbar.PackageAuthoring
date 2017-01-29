@@ -63,8 +63,8 @@
       <HintPath>..\packages\NuGet.Core.2.14.0\lib\net40-Client\NuGet.Core.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="NuGet.Server">
-      <HintPath>..\packages\NuGet.Server.2.11.2\lib\net46\NuGet.Server.dll</HintPath>
+    <Reference Include="NuGet.Server, Version=2.11.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\NuGet.Server.2.11.3\lib\net46\NuGet.Server.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="RouteMagic">
